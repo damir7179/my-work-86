@@ -1,0 +1,23 @@
+.box {
+     background-color: green;
+     padding: 15px;
+}
+.a {
+    background-color: aliceblue;
+    height: 60px;
+    
+    margin: 10px;
+}
+.box2 {
+    display: flex;
+}
+.s {
+    background-color: aliceblue;
+  
+    margin: 10px;
+    width: 150px;
+    height:  60px;
+}
+.box3 {
+    display: flex;
+}
